@@ -3,7 +3,7 @@
  相关信息 | 内容
  ------ | ------
  访问类型 | POST
- 访问地址 | /video/queryQuestionList
+ 访问地址 | /evaluation/queryQuestionList
 
 ### 请求参数
 
